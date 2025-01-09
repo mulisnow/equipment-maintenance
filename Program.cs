@@ -17,6 +17,8 @@ namespace 设备维修预约系统
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
+			//Application.Run(new admin2_1());
+			//Application.Run(new admin());
 		}
 	}
 }
